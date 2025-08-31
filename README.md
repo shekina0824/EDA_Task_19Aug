@@ -29,3 +29,15 @@ We identified missing values using `df.isna().sum()`. Based on the extent, we us
 - Applied `MinMaxScaler` to normalize values between 0 and 1.
 - Saved the preprocessed dataset as `data/preprocessed_data.csv`.
 - All steps are documented in `preprocessing.ipynb`.
+
+
+
+## 📤 Day 6 – Export Data for Power BI
+- Loaded preprocessed dataset from Day 5.
+- Verified data integrity and structure.
+- Exported final dataset as `data/final_data_for_powerbi.csv` for visualization in Power BI.
+✅
+
+
+
+
