@@ -21,3 +21,11 @@ We identified missing values using `df.isna().sum()`. Based on the extent, we us
 - Ensured numeric columns are in correct type using `pd.to_numeric()`
 - Removed duplicate records using `drop_duplicates()`
 - Saved updated dataset as `data/cleaned_data_v2.csv`
+
+
+
+## 📊 Day 5 – Data Normalization & Scaling
+- Identified numerical columns in the dataset.
+- Applied `MinMaxScaler` to normalize values between 0 and 1.
+- Saved the preprocessed dataset as `data/preprocessed_data.csv`.
+- All steps are documented in `preprocessing.ipynb`.
