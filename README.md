@@ -74,4 +74,8 @@ Below are the steps performed during the preprocessing pipeline:
 - Saved the Power BI file as `data_model.pbix` for visualization in Day 10.
 
 
-
+## 🔗 Day 10 – Power BI Data Modeling
+- Imported related tables: Customers, Products, Dates.
+- Created relationships between tables using keys.
+- Ensured a clean star schema design.
+- Saved the updated model in `data_model.pbix`.
