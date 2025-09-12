@@ -79,3 +79,10 @@ Below are the steps performed during the preprocessing pipeline:
 - Created relationships between tables using keys.
 - Ensured a clean star schema design.
 - Saved the updated model in `data_model.pbix`.
+
+## 📊 Day 11 – Power BI Dashboard
+- Designed interactive dashboard using visuals:
+- Bar, Line, and Pie Charts
+- KPI Cards for key metrics
+- Slicers for dynamic filtering
+- Dashboard saved as `dashboard.pbix`
