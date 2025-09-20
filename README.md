@@ -91,3 +91,26 @@ Below are the steps performed during the preprocessing pipeline:
 ## 🌐 Day 12 – Publish Power BI Dashboard
 - Dashboard published to Power BI Cloud.
 - Live Web Link: [View Dashboard](https://app.powerbi.com/view?r=your_public_link_here)
+
+
+## 📌 Day 13 – Real-Time Problem Selection
+
+### 🔍 Problem Statement
+
+**Title:** Real-Time Healthcare Monitoring (COVID-19 Trends)
+
+**Objective:** To track and analyze COVID-19 cases and vaccination uptake in real-time, enabling quick response to rising trends.
+
+**Domain:** Healthcare
+
+**Dataset Source:** Kaggle COVID-19 Dataset / Government Health Data (to be finalized)
+
+**Expected Outcome:** Real-time dashboard that shows cases, recoveries, deaths, and vaccination updates with trend alerts.
+
+### 📊 Possible KPIs
+
+- Daily new cases (per 100k population)
+- Vaccination uptake (%) in real time
+- Hospital occupancy rate (%)
+- Latency of data update (minutes)
+
