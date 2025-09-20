@@ -109,8 +109,15 @@ Below are the steps performed during the preprocessing pipeline:
 
 ### 📊 Possible KPIs
 
+
 - Daily new cases (per 100k population)
 - Vaccination uptake (%) in real time
 - Hospital occupancy rate (%)
 - Latency of data update (minutes)
+
+## 🌐 Day 14 – Live Data Collection
+- Chosen Method: [API ]
+- Source: [e.g., https://disease.sh for COVID-19 stats]
+- Tool Used: Python with `requests` and `pandas`
+- Output File: `live_covid_data.csv`
 
