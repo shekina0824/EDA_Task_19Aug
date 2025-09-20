@@ -86,3 +86,8 @@ Below are the steps performed during the preprocessing pipeline:
 - KPI Cards for key metrics
 - Slicers for dynamic filtering
 - Dashboard saved as `dashboard.pbix`
+- 
+
+## 🌐 Day 12 – Publish Power BI Dashboard
+- Dashboard published to Power BI Cloud.
+- Live Web Link: [View Dashboard](https://app.powerbi.com/view?r=your_public_link_here)
